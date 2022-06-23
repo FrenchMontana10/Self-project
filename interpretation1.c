@@ -8,3 +8,4 @@ We then broke out of our for loop.
 We started another for loop and initialized index to 0. We gave a condition that index should be less than anything that the variable SIZE contains which is 20.
 And we also gave a condition that index should always update itselfby 1 everytime our condition is true.
 So the computer ran our program and printed out the values of elements until the condition was false.
+When the condition became false, the program stopped running.
